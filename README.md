@@ -16,6 +16,6 @@ OpenWeatherMap APIを使った天気予報アプリ
 - OpenWeatherMap API
 - fetch API / async-await
 
-##完成日
+## 完成日
 
 2025/11/08
